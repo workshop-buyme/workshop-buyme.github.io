@@ -169,3 +169,11 @@ span.logo {
 
 .upper {
   text-transform: uppercase; }
+
+.sponsors {
+  width: 100%; }
+  .sponsors td {
+    text-align: center !important; }
+    .sponsors td img {
+      border: 0;
+      box-shadow: none; }

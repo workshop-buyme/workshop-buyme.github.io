@@ -101,3 +101,15 @@ span.logo {
 .upper {
   text-transform: uppercase;
 }
+
+.sponsors {
+  width: 100%;
+
+  td {
+    text-align: center !important;
+    img {
+      border: 0;
+      box-shadow: none;
+    }
+  }
+}
